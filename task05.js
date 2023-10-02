@@ -1,5 +1,5 @@
 function range(start, end, step) {
-    if (step === undefined) {
+    if (step == undefined) {
         step = 1;
     }
     var arr = [];
